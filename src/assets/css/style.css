@@ -1,0 +1,66 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(186, 241, 245);
+    margin: auto;
+    margin-top: auto;
+    width: auto;
+    border: 3px solid black;
+    padding:  10px;
+    text-align: center;
+}
+
+input [type= "text"] {
+    width: auto;
+    padding: 10px 1px;
+    margin: auto;
+    display: inline-block;
+    border: 5px solid rgb(102, 190, 231);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+input [type= "email"] {
+    width: auto;
+    padding: 10px 1px;
+    margin: auto;
+    display: inline-block;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+textarea [type= "text"] {
+    width: auto;
+    padding: 10px 1px;
+    margin: auto;
+    display: inline-block;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 6px;
+    box-sizing: border-box;
+}
+
+button {
+    margin-top: auto;
+    background-color: rgb(231, 243, 177);
+    border: solid;
+    color: rgb(0, 0, 0);
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+input [type= "submit"] {
+background-color: rgb(228, 161, 161);
+border: solid;
+padding: 10px;
+text-align: center;
+text-decoration: solid;
+display: inline-block;
+font-size: medium;
+border-radius: 10px;
+
+}
+
